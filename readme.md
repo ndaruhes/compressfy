@@ -1,1 +1,1 @@
-<p>Visit <a href="https://compressfy.ndaruhes.com">compressfy.ndaruhes.com</a> for demo</p>
+<p>Visit <a href="https://compressfy.ndaruhes.com" target="_blank">compressfy.ndaruhes.com</a> for demo</p>
